@@ -1,0 +1,15 @@
+package jsp.Collection;
+
+/* QUESTION :
+ * 1.create a class Employee.
+ * 2.define properties name, company, salary
+ * 3.Override toString()
+ * 4.create minimum 2 object print the details
+ * 5.within toString() print only salary */
+
+public class FindEmployeeSalary {
+	private String name;
+	private 
+	
+
+}

@@ -1,0 +1,14 @@
+package jsp.Collection;
+
+/* QUESTION:
+ * Father --> have money, bike, car, scooter
+ * Son ---> have all properties
+ * Daughter --> all except bike & car */
+class Inheritance {
+//	father class
+	public double money;
+	String bike;
+	String car;
+	public String scooter;
+	
+}

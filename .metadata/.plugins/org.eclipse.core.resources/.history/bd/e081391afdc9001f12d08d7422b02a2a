@@ -1,0 +1,22 @@
+package jsp.Collection;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Inheritance father = new Inheritance();
+		System.out.println(50000.00);
+		System.out.println("GT");
+		System.out.println("BMW");
+		System.out.println("Activa");
+		
+		Son son=new Son();
+		System.out.println("Son's property-------");
+		son.displayDetails();
+		
+		Daughter daughter = new Daughter();
+		System.out.println("Daughter's property----");
+		daughter.daughterDetails();
+		
+	}
+
+}

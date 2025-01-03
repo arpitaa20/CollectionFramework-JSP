@@ -1,0 +1,16 @@
+package jsp.Collection;
+
+import jsp.Collection.Inheritance.Son;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Son son=new Son();
+		son.displayDetails();
+		
+		Daughter daughter = new Daughter();
+		daughter.daughterDetails();
+		
+	}
+
+}

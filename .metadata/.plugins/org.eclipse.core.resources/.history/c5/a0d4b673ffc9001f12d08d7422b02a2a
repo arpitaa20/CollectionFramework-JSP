@@ -1,0 +1,15 @@
+package jsp.Collection;
+
+public class Daughter extends Inheritance{
+	
+	public Daughter(double money, String scooter) {
+		super(money, scooter);
+	
+	}
+
+	public void daughterDetails() {
+		System.out.println(money);
+		System.out.println(scooter);
+	}
+
+}
